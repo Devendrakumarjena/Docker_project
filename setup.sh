@@ -2,7 +2,7 @@
 
 # Clone the repository
 git clone https://github.com/Devendrakumarjena/Docker_project.git
-cd fullstack-app
+cd Docker_project
 
 # Build and start the containers
 docker-compose up --build -d
